@@ -1,5 +1,3 @@
-# Ideal Studio API
+# Laravel API
 
 ## Checklist
-
-- [Sentry](https://github.com/getsentry/sentry-laravel)
